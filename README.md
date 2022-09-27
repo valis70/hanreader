@@ -1,7 +1,7 @@
 # hanreader
 Firmware for reading Swedish HAN-port using the SmartyReader from http://weigu.lu/.
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v2.1-blue.svg)](https://www.gnu.org/licenses/lgpl-2.1)
 
 ## Getting started
 1. Clone the repo.
