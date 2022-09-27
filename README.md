@@ -1,5 +1,5 @@
 # hanreader
-Firmware for reading Swedish HAN-port using SmartyReader from http://weigu.lu/.
+Firmware for reading Swedish HAN-port using the SmartyReader from http://weigu.lu/.
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
@@ -16,4 +16,4 @@ The logs are sent using UDP packages. I use Packet Sender (https://packetsender.
 
 ## Usage & Contributions
 
-Feel free to use. Don't hesitate to create a pull request with your improvements - there is room for improvements! :) 
+Feel free to use. Don't hesitate to create a pull request with your improvements - there is room for them! :) 
