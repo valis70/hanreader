@@ -1,9 +1,13 @@
 # hanreader
-Firmware for reading Swedish HAN-port using the SmartyReader from http://weigu.lu/.
+
+Firmware for reading Swedish HAN-port using the SmartyReader from http://weigu.lu/ and integrating it to a MQTT broker and HomeAssistant.
+
+Tested with Landus Gyr E360.
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v2.1-blue.svg)](https://www.gnu.org/licenses/lgpl-2.1)
 
 ## Getting started
+
 1. Clone the repo.
 1. Copy `src/config_TEMPLATE.h` to `src/config.h`.
 1. Edit `src/config.h` to reflect your environment and settings.
